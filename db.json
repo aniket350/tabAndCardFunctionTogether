@@ -1,0 +1,266 @@
+{
+  "postAnIdeaDetails": {
+    "title": "Idea1",
+    "description": "Description1",
+    "duration": "Duration1",
+    "domain": "Domain1",
+    "subDomain": "Subdomain1",
+    "cost": "5000",
+    "role": [
+      {
+        "role": "Developer",
+        "skills": [
+          "php",
+          "mysql"
+        ],
+        "noOfPeople": "4",
+        "experience": "5"
+      },
+      {
+        "role": "Tester",
+        "skills": [
+          "php",
+          "mysql"
+        ],
+        "noOfPeople": "4",
+        "experience": "5"
+      },
+      {
+        "role": "Designer",
+        "skills": [
+          "php",
+          "mysql"
+        ],
+        "noOfPeople": "4",
+        "experience": "5"
+      },
+      {
+        "role": "CA",
+        "skills": [
+          "php",
+          "mysql"
+        ],
+        "noOfPeople": "4",
+        "experience": "5"
+      },
+      {
+        "role": "Mentor",
+        "skills": [
+          "php",
+          "mysql"
+        ],
+        "noOfPeople": "4",
+        "experience": "5"
+      }
+    ],
+    "location": "Location1"
+  },
+  "Designer": [
+    {
+      "statusA": "Accept",
+      "statusR": "Rejected",
+      "name": "hudi baba",
+      "mobilenumber": 123456789,
+      "Emailid": "hudibaba@gmail.com",
+      "domain": "Designer",
+      "skills": [
+        "web-designer"
+      ],
+      "cost": 30,
+      "id": 1
+    },
+    {
+      "statusA": "Accepted",
+      "statusR": "Reject",
+      "name": "chuhaad shri",
+      "mobilenumber": 123456789,
+      "Emailid": "chuhaadshri@gmail.com",
+      "domain": "Designer",
+      "skills": [
+        "web-designer"
+      ],
+      "cost": 30,
+      "id": 2
+    },
+    {
+      "statusA": "Accepted",
+      "statusR": "Reject",
+      "name": "chorkat",
+      "mobilenumber": 123456789,
+      "Emailid": "chorkat@gmail.com",
+      "domain": "Designer",
+      "skills": [
+        "web-designer"
+      ],
+      "cost": 30,
+      "id": 3
+    }
+  ],
+  "Developer": [
+    {
+      "statusA": "Accepted",
+      "statusR": "Reject",
+      "name": "hudi baba",
+      "mobilenumber": 123456789,
+      "Emailid": "hudibaba@gmail.com",
+      "domain": "Developer",
+      "skills": [
+        "developer"
+      ],
+      "cost": 30,
+      "id": 1
+    },
+    {
+      "statusA": "Accept",
+      "statusR": "Rejected",
+      "name": "develper",
+      "mobilenumber": 123456789,
+      "Emailid": "chuhaadshri@gmail.com",
+      "domain": "Developer",
+      "skills": [
+        "developer"
+      ],
+      "cost": 30,
+      "id": 2
+    },
+    {
+      "statusA": "Accepted",
+      "statusR": "Reject",
+      "name": "chorkat",
+      "mobilenumber": 123456789,
+      "Emailid": "chorkat@gmail.com",
+      "domain": "Developer",
+      "skills": [
+        "develop"
+      ],
+      "cost": 30,
+      "id": 3
+    }
+  ],
+  "Tester": [
+    {
+      "statusA": "Accept",
+      "statusR": "Rejected",
+      "name": "tester1",
+      "mobilenumber": 123456789,
+      "Emailid": "hudibaba@gmail.com",
+      "domain": "Tester",
+      "skills": [
+        ".net",
+        "python"
+      ],
+      "cost": 30,
+      "id": 1
+    },
+    {
+      "statusA": "Accept",
+      "statusR": "Rejected",
+      "name": "tester2",
+      "mobilenumber": 123456789,
+      "Emailid": "chuhaadshri@gmail.com",
+      "domain": "Tester",
+      "skills": [
+        ".net",
+        "python"
+      ],
+      "cost": 30,
+      "id": 2
+    },
+    {
+      "statusA": "Accepted",
+      "statusR": "Reject",
+      "name": "tester3",
+      "mobilenumber": 123456789,
+      "Emailid": "chorkat@gmail.com",
+      "domain": "Tester",
+      "skills": [
+        ".net",
+        "python"
+      ],
+      "cost": 30,
+      "id": 3
+    }
+  ],
+  "CA": [
+    {
+      "statusA": "Accepted",
+      "statusR": "Reject",
+      "name": "hudi baba",
+      "mobilenumber": 123456789,
+      "Emailid": "hudibaba@gmail.com",
+      "domain": "Chartered Accountant",
+      "skills": [
+        "Accounting"
+      ],
+      "cost": 30,
+      "id": 1
+    },
+    {
+      "statusA": "Accepted",
+      "statusR": "Reject",
+      "name": "chuhaad shri",
+      "mobilenumber": 123456789,
+      "Emailid": "chuhaadshri@gmail.com",
+      "domain": "Chartered Accountant",
+      "skills": [
+        "Accounting"
+      ],
+      "cost": 30,
+      "id": 2
+    },
+    {
+      "statusA": "Accepted",
+      "statusR": "Reject",
+      "name": "chorkat",
+      "mobilenumber": 123456789,
+      "Emailid": "chorkat@gmail.com",
+      "domain": "Chartered Accountant",
+      "skills": [
+        "Accounting"
+      ],
+      "cost": 30,
+      "id": 3
+    }
+  ],
+  "Mentor": [
+    {
+      "statusA": "Accepted",
+      "statusR": "Reject",
+      "name": "Meghana mam",
+      "mobilenumber": 123456789,
+      "Emailid": "meg@gmail.com",
+      "domain": "Mentor",
+      "skills": [
+        "Datna---Pani_Pilana---Phir_Datna"
+      ],
+      "cost": 30,
+      "id": 1
+    },
+    {
+      "statusA": "Accepted",
+      "statusR": "Reject",
+      "name": "Sushmita mam",
+      "mobilenumber": 123456789,
+      "Emailid": "sus@gmail.com",
+      "domain": "Mentor",
+      "skills": [
+        "Scolding"
+      ],
+      "cost": 30,
+      "id": 2
+    },
+    {
+      "statusA": "Accept",
+      "statusR": "Rejected",
+      "name": "hello",
+      "mobilenumber": 123456789,
+      "Emailid": "chorkat@gmail.com",
+      "domain": "Mentor",
+      "skills": [
+        "hello"
+      ],
+      "cost": 30,
+      "id": 3
+    }
+  ]
+}

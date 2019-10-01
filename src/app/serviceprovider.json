@@ -1,0 +1,80 @@
+{
+    "develeopers" :[
+        {
+            "name": "suresh",
+            "mobilenumber":123456789,
+            "Emailid":"suresh@gmail.com",
+            "domian":"Devloper",
+            "skills":["java","python"],
+            "cost":30
+        },
+        {
+            "name": "adithya",
+            "mobilenumber":123456789,
+            "Emailid":"suresh@gmail.com",
+            "domian":"Legaladvisor",
+            "skills":["java",".net"],
+            "cost":30
+        },
+        {
+            "name": "sruthi",
+            "mobilenumber":123456789,
+            "Emailid":"suresh@gmail.com",
+            "domian":"Devloper",
+            "skills":["java","python",".net"],
+            "cost":30
+        }
+    ],
+    "testers":[
+    {
+        "name": "hudi baba",
+        "mobilenumber":123456789,
+        "Emailid":"hudibaba@gmail.com",
+        "domian":"Tester",
+        "skills":[".net","python"],
+        "cost":30
+    },
+    {
+      "name": "chuhaad shri",
+      "mobilenumber":123456789,
+      "Emailid":"chuhaadshri@gmail.com",
+      "domian":"Tester",
+      "skills":[".net","python"],
+      "cost":30
+  },
+  {
+    "name": "chorkat",
+    "mobilenumber":123456789,
+    "Emailid":"chorkat@gmail.com",
+    "domian":"Tester",
+    "skills":[".net","python"],
+    "cost":30
+  }
+  ],
+  "designers":[
+    {
+        "name": "hudi baba",
+        "mobilenumber":123456789,
+        "Emailid":"hudibaba@gmail.com",
+        "domian":"Designer",
+        "skills":["web-designer"],
+        "cost":30
+    },
+    {
+      "name": "chuhaad shri",
+      "mobilenumber":123456789,
+      "Emailid":"chuhaadshri@gmail.com",
+      "domian":"Designer",
+      "skills":["web-designer"],
+      "cost":30
+  },
+  {
+    "name": "chorkat",
+    "mobilenumber":123456789,
+    "Emailid":"chorkat@gmail.com",
+    "domian":"Designer",
+    "skills":["web-designer"],
+    "cost":30
+  }
+  ]
+}

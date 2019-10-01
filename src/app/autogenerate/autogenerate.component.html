@@ -1,0 +1,33 @@
+<p>Auto Genetarated Team</p>
+<mat-tab-group (selectedIndexChange)="getTab($event)">
+  <mat-tab *ngFor= "let tab of postedIdeaDetails.role; let index = index"  [label]="tab.role" >
+    <mat-card class="card" *ngFor= "let item of items; let index = index">
+          <mat-card-title>{{item.name}}</mat-card-title>
+          <mat-card-subtitle>{{item.skills}}</mat-card-subtitle>
+          <mat-card-content>{{item.domain}}</mat-card-content>
+          <mat-card-actions>
+
+          <button type="button"  mat-button  (click)="clickedAccept(item, tab.role)">{{item.acceptStatus}}</button>
+          <button type="button"  mat-button (click)="clickedReject(item, tab.role)" >{{item.rejectStatus}}</button>
+          </mat-card-actions>
+ </mat-card>
+ </mat-tab>
+</mat-tab-group>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
